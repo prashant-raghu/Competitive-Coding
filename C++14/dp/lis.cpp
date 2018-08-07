@@ -38,7 +38,7 @@ int increasingSubsequece(int n) {
     return maxLength;
 }
 
-// BINARY SEARCH, GREEDY ALGORITHM - O(n logn)
+// BINARY SEARCH, GREEDY ALGORITHM - O(logn)
 // link wikipedia.org/wiki/Longest_increasing_subsequence
 int increasingSubsequece2(int n) {
     vector<int> temp;
